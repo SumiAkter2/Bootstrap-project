@@ -1,0 +1,22 @@
+.top-navbar{
+    background: #03384E;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #F5F6F7;
+    font-family: 'Aileron';
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    padding: 0 20px;
+}
+.navbar-content{
+    background: #FFFFFF;
+    height: 100px;
+}
+.navbar-content img{
+    width: 268px;
+    height: 100px;
+}

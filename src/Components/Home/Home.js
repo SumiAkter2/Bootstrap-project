@@ -4,7 +4,7 @@ import Navbar from "./Header";
 const Home = () => {
   return (
     <div>
-      <h1>This is Home</h1>
+      <h1>Get is Home</h1>
     </div>
   );
 };
